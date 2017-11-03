@@ -4,7 +4,7 @@
 2. npm install -g node-sass   (全局安装node-sass)
 3. node-sass -w css.scss aa.css --output-style expanded 
 ## 二、git 常用命令
-[git常用命令](URL 'https://github.com/Nancy0123/Note/blob/master/git.md')
+[git常用命令](URL 'http://github.com/Nancy0123/Note/blob/master/git.md')
 
 ### 1.取得git仓库
 <1> 初始化一个版本仓库
